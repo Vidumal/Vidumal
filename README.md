@@ -24,12 +24,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidumal&show_icons=true&locale=en&layout=compact" alt="vidumal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidumal&show_icons=true&locale=en" alt="vidumal" /></p>
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+###
 
 <br clear="both">
 
-<img src="https://github.com/Vidumal/Vidumal/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
 

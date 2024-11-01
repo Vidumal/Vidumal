@@ -24,13 +24,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidumal&show_icons=true&locale=en&layout=compact" alt="vidumal" /></p>
 
-###
 
-<br clear="both">
+<br>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+![snake gif](https://github.com/Vidumal/Vidumal/blob/output/github-snake-dark.svg)
 
 
 

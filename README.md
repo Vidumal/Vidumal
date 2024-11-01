@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+![snake gif](https://github.com/Vidumal/Vidumal/blob/output/github-snake-dark.svg)
 - 🌱 I’m currently learning **BSc (Hons) in Information Technology Specialising in Cyber Security**
 
 - 📫 How to reach me **punsithvidumal@gmail.com**
@@ -27,7 +28,7 @@
 
 <br>
 
-![snake gif](https://github.com/Vidumal/Vidumal/blob/output/github-snake-dark.svg)
+
 
 
 

@@ -26,7 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidumal&show_icons=true&locale=en" alt="vidumal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidumal&" alt="vidumal" /></p>
 
 
 ![snake gif](https://github.com/Vidumal/Vidumal/blob/output/github-snake-dark.svg)

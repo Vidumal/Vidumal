@@ -29,7 +29,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidumal&" alt="vidumal" /></p>
 
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Vidumal&theme=aura&hide_border=true" width="50%" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidumal&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-
 ![snake gif](https://github.com/Vidumal/Vidumal/blob/output/github-snake-dark.svg)

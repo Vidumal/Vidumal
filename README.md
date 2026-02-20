@@ -4,11 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidumal&label=Profile%20views&color=0e75b6&style=flat" alt="vidumal" /> </p>
 
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src=" https://github-profile-trophy.vercel.app/?username=Vidumal&row=2&column=3"/>
-  </a>
-</p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidumal&row=2&column=3" alt="vidumal" /></a> </p>

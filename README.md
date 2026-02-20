@@ -5,7 +5,7 @@
 
 
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vidumal)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>

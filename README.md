@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidumal&label=Profile%20views&color=0e75b6&style=flat" alt="vidumal" /> </p>
 
-
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vidumal)](https://github.com/ryo-ma/github-profile-trophy)
 

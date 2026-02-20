@@ -35,7 +35,6 @@
   <img src="https://www.credly.com/badges/ed4d4d8e-58cf-4a3f-8dac-b98baf4ef45d/public_url" width="100" height="100" alt="Google Cybersecurity Certificate">
 </a>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ed4d4d8e-58cf-4a3f-8dac-b98baf4ef45d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vidumal&theme=radical" alt="Profile Details" />

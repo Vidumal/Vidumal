@@ -32,8 +32,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidumal&layout=compact&theme=radical&langs_count=10&hide_border=false" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vidumal&theme=radical" alt="Most Commit Language" />
 </p>
+
 
 
 

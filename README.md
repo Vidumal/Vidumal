@@ -34,7 +34,7 @@
 <a href="https://www.credly.com/badges/ed4d4d8e-58cf-4a3f-8dac-b98baf4ef45d/public_url">
   <img src="https://www.credly.com/badges/ed4d4d8e-58cf-4a3f-8dac-b98baf4ef45d/public_url" width="100" height="100" alt="Google Cybersecurity Certificate">
 </a>
-
+<br>
 
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1531078" style='border:none;'></iframe>
 

@@ -36,8 +36,7 @@
 </a>
 
 
-[![TryHackMe Badge](https://tryhackme-badges.adreal.workers.dev/badge/1531078)](https://tryhackme.com/p/1531078)
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1531078" style='border:none;'></iframe>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vidumal&theme=radical" alt="Profile Details" />

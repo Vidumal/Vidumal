@@ -30,9 +30,10 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vidumal&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Vidumal&theme=night-owl" alt="Detailed Contribution Stats" />
 </p>
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Vidumal&theme=night-owl" alt="Detailed Contribution Stats" />
+ 
 </p>
 
 

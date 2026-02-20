@@ -28,7 +28,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vidumal&theme=radical" alt="Profile Details" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vidumal&theme=radical" alt="Most Commit Language" />
   <img src="https://github-contribution-stats.vercel.app/api/?username=Vidumal&theme=night-owl" alt="Detailed Contribution Stats" />
 </p>

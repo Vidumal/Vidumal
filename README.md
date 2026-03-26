@@ -37,7 +37,7 @@
 
 
 <a href="https://tryhackme.com/p/K1cKA55">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/K1cKA55.png" alt="TryHackMe Badge" height="80px"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/K1cKA55.png?update=1" alt="TryHackMe Badge" height="80px"/>
 </a>
 
 

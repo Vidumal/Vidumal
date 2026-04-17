@@ -81,7 +81,7 @@
 ### 🏅 Certifications & Badges
 <p align="center">
   <a href="https://www.credly.com/badges/ed4d4d8e-58cf-4a3f-8dac-b98baf4ef45d/public_url">
-    <img src="https://images.credly.com/size/220x220/images/4e6c7c6b-1e4f-4c0d-9f64-65c52a2f5d0b/image.png" width="100"/>
+    <img src="https://drive.google.com/file/d/1pjpX-rEmtFWUQQX-h0cu8cpZQN0tu-iK/view?usp=sharing" width="100"/>
   </a>
 
   <a href="https://tryhackme.com/p/K1cKA55">

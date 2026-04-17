@@ -1,59 +1,86 @@
 <h1 align="center">Hi 👋, I'm Punsith Vidumal</h1>
-<h3 align="center">Securing the Online World | Cybersecurity Enthusiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidumal&label=Profile%20views&color=0e75b6&style=flat" alt="vidumal" /> </p>
-
-
-<p align=""> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **BSc (Hons) in Information Technology Specialising in Cyber Security**
-
-- 👯 I’m looking to collaborate on **Linux Tools**
-
-- 📫 How to reach me **punsithvidumal@gmail.com**
-
-<h3 Connect with me:</h3>
-
-<a href="https://linkedin.com/in/punsithvidumal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punsithvidumal" height="30" width="40" /></a>
-<a href="https://kaggle.com/vidumal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vidumal" height="30" width="40" /></a>
-</p>
-
-<h3 Languages:</h3>
-<p <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-
-<h3 Tools:</h3>
-
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2496ED?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-37474F?style=for-the-badge&logo=owasp&logoColor=white)
-
-<h3 Badges:</h3>
-
-<a href="https://www.credly.com/badges/ed4d4d8e-58cf-4a3f-8dac-b98baf4ef45d/public_url">
-  <img src="https://www.credly.com/badges/ed4d4d8e-58cf-4a3f-8dac-b98baf4ef45d/public_url" width="100" height="100" alt="Google Cybersecurity Certificate">
-</a>
-
-
-<a href="https://tryhackme.com/p/K1cKA55">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/K1cKA55.png?update=1" alt="TryHackMe Badge" height="80px"/>
-</a>
-
+<h3 align="center">Cybersecurity Enthusiast | Securing the Digital World</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vidumal&theme=radical" alt="Profile Details" />
+  <img src="https://komarev.com/ghpvc/?username=vidumal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 BSc (Hons) in Information Technology (Cyber Security)
+- 🔐 Focused on Cybersecurity, Linux, and Network Security
+- 🛠 Building and experimenting with security tools
+- 🤝 Open to collaboration on **Linux & Security Projects**
+- 📫 Contact: **punsithvidumal@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/punsithvidumal">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="https://kaggle.com/vidumal">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+### 💻 Languages & Technologies
+<p align="center">
+  <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a>
+  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
+</p>
+
+---
+
+### 🛠 Tools & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2496ED?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-37474F?style=for-the-badge&logo=owasp&logoColor=white"/>
+</p>
+
+---
+
+### 🏅 Certifications & Badges
+<p align="center">
+  <a href="https://www.credly.com/badges/ed4d4d8e-58cf-4a3f-8dac-b98baf4ef45d/public_url">
+    <img src="https://images.credly.com/size/220x220/images/4e6c7c6b-1e4f-4c0d-9f64-65c52a2f5d0b/image.png" width="100"/>
+  </a>
+  <a href="https://tryhackme.com/p/K1cKA55">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/K1cKA55.png" height="80"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vidumal&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vidumal&theme=radical" alt="Most Commit Language" />
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Vidumal&theme=night-owl" alt="Detailed Contribution Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vidumal&theme=radical"/>
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Vidumal&theme=night-owl"/>
 </p>
+
 <p align="center">
- 
+  <img src="https://streak-stats.demolab.com?user=Vidumal&theme=radical"/>
 </p>
 
+---
 
-
-
-![snake gif](https://github.com/Vidumal/Vidumal/blob/output/github-snake-dark.svg)
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Vidumal/Vidumal/blob/output/github-snake-dark.svg"/>
+</p>
